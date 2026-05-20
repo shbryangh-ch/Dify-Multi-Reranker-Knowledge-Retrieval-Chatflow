@@ -61,7 +61,6 @@ If/Else: 是否有資料
 
 此 Dify App YAML 內包含以下 marketplace plugin 依賴：
 
-- `langgenius/jina`
 - `langgenius/localai`
 
 匯入前請確認你的 self-hosted Dify 環境已安裝或可使用這些 plugin，並且相關模型服務已設定完成。
